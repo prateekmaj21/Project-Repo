@@ -50,3 +50,15 @@ Study on factors affecting power output of a combined cycle power plant and pred
 | Mean Squared Error      | 17.549904598577477     |
 | Root Mean Squared Error | 4.189260626718929      |
 
+## Files
+
+- **Decision Tree.ipynb**: Jupyter notebook for Decision Tree Regression.
+- **Folds5x2_pp.csv**: Dataset used for training and testing the models.
+- **Linear Regression.ipynb**: Jupyter notebook for Linear Regression.
+- **Polynomial Regression.ipynb**: Jupyter notebook for Polynomial Regression.
+- **Project Report.pdf**: Detailed report of the project.
+- **Project Summary.pdf**: Summary of the project.
+- **README.md**: This file.
+- **Random Forest.ipynb**: Jupyter notebook for Random Forest Regression.
+- **analysis-and-prediction-of-power.ipynb**: Jupyter notebook for the overall analysis and prediction of power output.
+- **final_prepared.xlsx**: Excel file containing prepared data.
