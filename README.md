@@ -60,5 +60,5 @@ Study on factors affecting power output of a combined cycle power plant and pred
 - **Project Summary.pdf**: Summary of the project.
 - **README.md**: This file.
 - **Random Forest.ipynb**: Jupyter notebook for Random Forest Regression.
-- **analysis-and-prediction-of-power.ipynb**: Jupyter notebook for the overall analysis and prediction of power output.
+- **analysis-and-prediction-of-power.ipynb**: Jupyter notebook for data preparation.
 - **final_prepared.xlsx**: Excel file containing prepared data.
