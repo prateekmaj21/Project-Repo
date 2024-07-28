@@ -14,6 +14,23 @@ Study on factors affecting power output of a combined cycle power plant and pred
 - This paper consists of a detailed study of the data available and assesses which machine learning algorithm works the best in examining the factors and predicting the output.
 - The most accurate machine learning algorithm is found using various accuracy metrics.
 
+  The power output, influenced by these factors, is considered the target variable. This project consists of a detailed study of the available data and assesses which machine learning algorithm works the best in examining these factors and predicting the output.
+
+## Machine Learning Models Used
+
+- Linear Regression
+- Polynomial Regression
+- Decision Tree Regression
+- Random Forest Regression
+
+## Metrics for Evaluation
+
+The accuracy of each machine learning algorithm is evaluated using the following metrics:
+- R2 Score
+- Mean Absolute Error
+- Mean Squared Error
+- Root Mean Squared Error
+
 ## Linear Regression Accuracy Metrics
 
 | Metric                  | Value                  |
