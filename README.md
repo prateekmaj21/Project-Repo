@@ -1,6 +1,19 @@
 # Project-Repo
 Study on factors affecting power output of a combined cycle power plant and prediction based on data.
 
+
+- A combined cycle power plant is one of the most efficient power plants that uses both gas and steam turbines to produce 50% more electricity than what a traditional simple cycle plant produces.
+- The main aim of this paper is to predict the output of the combined cycle power plant using several machine learning algorithms.
+- Predicting the full load electric power is extremely instrumental in order to maximize the profit from the available megawatt hours.
+- The base load operation of this power plant is affected by four main factors:
+  - Ambient temperature
+  - Atmospheric pressure
+  - Relative humidity
+  - Exhaust steam pressure
+- The power output, which is influenced by these factors, is considered as the target variable.
+- This paper consists of a detailed study of the data available and assesses which machine learning algorithm works the best in examining the factors and predicting the output.
+- The most accurate machine learning algorithm is found using various accuracy metrics.
+
 ## Linear Regression Accuracy Metrics
 
 | Metric                  | Value                  |
